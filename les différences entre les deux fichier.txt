@@ -1,0 +1,7 @@
+les différences entre les deux fichier << virtualization>> et <<virtualization2>>:
+
+Apparence de fond coloré
+
+Apparence de cadre
+
+changement de taille de l'écriture
